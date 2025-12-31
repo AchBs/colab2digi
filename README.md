@@ -46,7 +46,7 @@ If you like **Digimon**, **gamification**, or **fun developer tools**, this is f
 
 ## 🖼️ Demo
 
-![DigiWork Demo](.github/demo.gif)
+![DigiWork Demo](assets/demo.gif)
 ---
 
 ## 📦 Installation (Developer Mode)
