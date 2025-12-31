@@ -46,8 +46,7 @@ If you like **Digimon**, **gamification**, or **fun developer tools**, this is f
 
 ## 🖼️ Demo
 
-![Demo](.github/colab2digi.mp4)
-
+![DigiWork Demo](.github/demo.gif)
 ---
 
 ## 📦 Installation (Developer Mode)
