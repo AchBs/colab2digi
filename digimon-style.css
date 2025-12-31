@@ -1,0 +1,15 @@
+/* Override Colab's corgi animations with Koromon */
+.december-holiday-corgi-mode {
+  background-image: none !important;
+  overflow: hidden !important;
+}
+
+#header-background {
+  overflow: hidden !important;
+}
+
+/* Hide kitty and crab modes if active */
+.kitty-canvas,
+.crab-mode {
+  display: none !important;
+}
